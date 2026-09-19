@@ -70,27 +70,28 @@ Similarly, the nested-block `basicpay` in `main()` resolves to the innermost enc
 
 ## 6. Screenshots — Test Run Evidence
 
-### Successful run 1 — 5 active staff records, all valid input
-![Successful run 1A](./screenshots/Trial%203%20A.png)
-![Successful run 1B](./screenshots/Trial%203%20B.png)
-![Successful run 1C](./screenshots/Trial%203%20C.png)
+### Successful run 1 - 5 active staff records, all valid input
+![Successful run 1A](./codeScreenshots/image3.jpeg)
+![Successful run 1B](./codeScreenshots/image2.jpeg)
+![Successful run 1C](./codeScreenshots/image1.jpeg)
 
-### Successful run 2 — gross pay exactly at the training band boundary (50,000)
-![Successful run 2A](./screenshots/Screenshot%202026-08-13%20140630.png)
-![Successful run 2B](./screenshots/Screenshot%202026-08-13%20140832.png)
-![Successful run 2C](./screenshots/Screenshot%202026-08-13%20140930.png)
+### Successful run 2 - gross pay exactly at the training band boundary (50,000)
+![Successful run 2A](./codeScreenshots/image10.jpeg)
+![Successful run 2B](./codeScreenshots/image9.jpeg)
+![Successful run 2C](./codeScreenshots/image8.jpeg)
 
-### Successful run 3 — gross pay above the boundary (e.g. 75,000)
-![Successful run 3A](./screenshots/Trial%202%20A.png)
-![Successful run 3B](./screenshots/Trial%202%20B.png)
-![Successful run 3C](./screenshots/Trial%202%20C.png)
-![Successful run 3D](./screenshots/Trial%202%20D.png)
+### Successful run 3 - gross pay above the boundary (e.g. 75,000)
+![Successful run 3A](./codeScreenshots/image7.jpeg)
+![Successful run 3B](./codeScreenshots/image6.jpeg)
+![Successful run 3C](./codeScreenshots/image5.jpeg)
+![Successful run 3D](./codeScreenshots/image4.jpeg)
 
-### Boundary/error run 1 — non-numeric text entered for Basic Pay
-![Error run 1](./screenshots/Error%201.png)
+### Boundary/error run 1 - non-numeric text entered for Basic Pay
+![Error run 1](./codeScreenshots/image13.jpeg)
 
-### Boundary/error run 2 — empty Staff ID or name submitted
-![Error run 2](./screenshots/Error%203.png)
+### Boundary/error run 2 - empty Staff ID or name submitted
+![Error run 2](./codeScreenshots/image11.jpeg)
+
 
 
 ---
